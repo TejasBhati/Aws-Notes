@@ -5,3 +5,9 @@ Data at rest
 #Snapshots
 #Encrption
 #Elasticity
+
+
+
+Volumes
+IOPs 
+pricing
